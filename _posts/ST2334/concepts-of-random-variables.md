@@ -1,4 +1,10 @@
-# Chapter 2: Concepts of Random Variables
+---
+layout: post
+title: 'ST2334 - Chapter 2: Concepts of Random Variables'
+date: '2021-09-19T22:31:00.000-08:00'
+author: Shee Hui
+tags: 
+---
 
 ## Random Variable
 

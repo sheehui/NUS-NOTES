@@ -1,4 +1,10 @@
-# Chapter 1: Basic Concept of Probability
+---
+layout: post
+title: 'ST2334 - Chapter 1: Basic Concepts of Probability'
+date: '2021-09-19T21:31:00.000-08:00'
+author: Shee Hui
+tags: 
+---
 
 ## Operations with Events
 

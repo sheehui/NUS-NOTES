@@ -1,4 +1,10 @@
-# Chapter 3: Two Dimensional RV and Conditional Probabilty Distributions
+---
+layout: post
+title: 'ST2334 - Chapter 3: Two Dimensional Random Variables and Conditional Probabilty Distributions'
+date: '2021-09-19T23:31:00.000-08:00'
+author: Shee Hui
+tags: 
+---
 
 ## Two Dimensional Random Variables
 
