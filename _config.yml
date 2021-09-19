@@ -16,8 +16,8 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Math Mods:
-    - MA1101R
-    - ST2334
+    - MA1101R: "MA1101R"
+    - ST2334: "ST2334"
   CS Mods: "lol"
 
 # --- Logo --- #
